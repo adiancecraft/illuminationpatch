@@ -1,0 +1,37 @@
+[
+  {
+    "gui": "FL508",
+    "puissance": 23,
+    "division": 1
+  },
+  {
+    "gui": "Boule lumineuse",
+    "puissance": 30,
+    "division": 1
+  },
+  {
+    "gui": "FL20CWBF (Blanc chaud)",
+    "puissance": 40,
+    "division": 1
+  },
+  {
+    "gui": "FL29CWBF",
+    "puissance": 83,
+    "division": 1
+  },
+  {
+    "gui": "Armature joyeuse fete ITL043W",
+    "puissance": 270,
+    "division": 1
+  },
+  {
+    "gui": "Rouleau (28 Kit Fl 414)",
+    "puissance": 5,
+    "division": 7
+  },
+  {
+    "gui": "FL590",
+    "puissance": 23,
+    "division": 1
+  }
+]
