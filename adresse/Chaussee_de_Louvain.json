@@ -1,0 +1,29 @@
+[
+  {
+    "active": "Oui",
+    "adresse": "Chaussee de Louvain",
+    "allumage": "Ep",
+    "cabine": "Quaie du tram 68 - IPES 31",
+    "conditionnement": [
+      {
+        "rangement": "Armatures",
+        "quantiter": 4,
+        "materiel": "Euro palette 80/120"
+      }
+    ],
+    "image": [
+      {
+        "image": "Chaussee_de_Louvain.jpg"
+      }
+    ],
+    "materiels": [
+      {
+        "guirlande": "Armatures PN 130-L",
+        "quantiter": 11,
+        "placement": "Sur les phacades ou poteau",
+        "cdf": "11.3"
+      }
+    ],
+    "petit_materiels": []
+  }
+]
