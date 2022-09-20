@@ -1,17 +1,22 @@
 [
   {
-    "gui": "FL508",
-    "puissance": 23,
-    "division": 1
-  },
-  {
-    "gui": "Boule lumineuse",
-    "puissance": 30,
-    "division": 1
-  },
-  {
     "gui": "FL20CWBF (Blanc chaud)",
     "puissance": 40,
+    "division": 1
+  },
+  {
+    "gui": "FL20CBFX",
+    "puissance": 40,
+    "division": 1
+  },
+  {
+    "gui": "FL25CWBF",
+    "puissance": 73,
+    "division": 1
+  },
+  {
+    "gui": "FL25CBFX",
+    "puissance": 73,
     "division": 1
   },
   {
@@ -20,8 +25,13 @@
     "division": 1
   },
   {
-    "gui": "Armature joyeuse fete ITL043W",
-    "puissance": 270,
+    "gui": "FL29CBFX",
+    "puissance": 83,
+    "division": 1
+  },
+  {
+    "gui": "FXL085 (KIT)",
+    "puissance": 17,
     "division": 1
   },
   {
@@ -30,7 +40,77 @@
     "division": 7
   },
   {
+    "gui": "FL502FX",
+    "puissance": 5,
+    "division": 1
+  },
+  {
+    "gui": "FL508",
+    "puissance": 23,
+    "division": 1
+  },
+  {
+    "gui": "FL508B",
+    "puissance": 23,
+    "division": 1
+  },
+  {
+    "gui": "FL352-FX",
+    "puissance": 15,
+    "division": 1
+  },
+  {
+    "gui": "FL558-F",
+    "puissance": 35,
+    "division": 1
+  },
+  {
     "gui": "FL590",
+    "puissance": 23,
+    "division": 1
+  },
+  {
+    "gui": "Kit à suspendre ILT070W",
+    "puissance": 140,
+    "division": 1
+  },
+  {
+    "gui": "Boule lumineuse",
+    "puissance": 30,
+    "division": 1
+  },
+  {
+    "gui": "Structure sapin artificiel",
+    "puissance": 30,
+    "division": 1
+  },
+  {
+    "gui": "TSLED-02",
+    "puissance": 20,
+    "division": 1
+  },
+  {
+    "gui": "Armature joyeuse fete ITL043W",
+    "puissance": 270,
+    "division": 1
+  },
+  {
+    "gui": "Armatures PN 130-L",
+    "puissance": 30,
+    "division": 1
+  },
+  {
+    "gui": "Armatures PL 245",
+    "puissance": 30,
+    "division": 1
+  },
+  {
+    "gui": "Fontaine GXL 826-L",
+    "puissance": 480,
+    "division": 1
+  },
+  {
+    "gui": "FL N.C. (Vieux modèle)",
     "puissance": 23,
     "division": 1
   }
