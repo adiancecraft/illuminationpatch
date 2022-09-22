@@ -33,6 +33,14 @@
   },
   {
     "tarif": "JVB-Sapin",
-    "prix" :  170
+    "prix": 170
+  },
+  {
+    "tarif": "Fontaine",
+    "prix": 1500
+  },
+  {
+    "tarif": "tirage",
+    "prix" : 0.4
   }
 ]
